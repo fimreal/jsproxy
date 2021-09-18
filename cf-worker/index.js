@@ -3,7 +3,8 @@
 /**
  * static files (404.html, sw.js, conf.js)
  */
-const ASSET_URL = 'https://etherdream.github.io/jsproxy'
+// const ASSET_URL = 'https://fimreal.github.io/jsproxy'
+const ASSET_URL = 'https://jsp.niml.ml/'
 
 const JS_VER = 10
 const MAX_RETRY = 1
